@@ -1,5 +1,6 @@
 # Curso Python
-![Python](./img/imagem.png)
+<img alt="Kenne-Python" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
 Descrição:
 
 Este curso de Python, tem como objetivo aprimorar meus conhecimentos no mundo da programação. Com uma abordagem prática e hands-on, mergulharei nos fundamentos essenciais do Python e explorarão diversas aplicações práticas em desenvolvimento de software, análise de dados, automação e muito mais.
