@@ -5,6 +5,6 @@
 qtd = 10
 soma = 0
 for n in range(1, qtd+1):
-    num = float(input(f"Informe o sálario {n}/{qtd} valor:\n R$"))
+    num = int(input(f"Informe o valor {n}/{qtd} valor:\n "))
     soma = soma + num
-print(f"A soma dos salários é R${soma:.2f}")
+print(f"A soma dos valores é {soma}")
